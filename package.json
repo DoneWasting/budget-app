@@ -1,0 +1,24 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoneWasting/budget-app.git"
+  },
+  "keywords": [],
+  "author": "David",
+  "license": "ISC",
+  "homepage": "https://donewasting.github.io/budget-app",
+  "bugs": {
+    "url": "https://github.com/DoneWasting/budget-app/issues"
+  },
+  
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
